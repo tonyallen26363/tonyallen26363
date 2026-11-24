@@ -46,35 +46,42 @@ Senior frontend engineer focused on building fast, accessible, and maintainable 
 
 ## Visual CV Infographic
 
-All eight visuals use one consistent Canva-inspired design system: deep teal headers, soft mint accents, white cards, rounded corners, matching typography, and numbered sections. Each visual is also available as an individual SVG.
+The recruiter overview is presented directly in this README using GitHub-native Markdown. No external image or SVG assets are required.
 
 ### 01–06 · Technical Cheatsheet
 
-<table>
-  <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/01-languages-web.svg" alt="01 Languages and Web" width="100%"/></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/02-frontend-ui.svg" alt="02 Frontend and UI" width="100%"/></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/03-state-data.svg" alt="03 State and Data" width="100%"/></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/04-testing-quality.svg" alt="04 Testing and Quality" width="100%"/></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/05-runtime-delivery.svg" alt="05 Runtime and Delivery" width="100%"/></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/06-standards-performance.svg" alt="06 Standards and Performance" width="100%"/></td>
-  </tr>
-</table>
+| Area | Skills & technologies |
+|---|---|
+| **01 · Languages & Web** | TypeScript · JavaScript · HTML5 · CSS3 |
+| **02 · Frontend & UI** | React · Next.js · Tailwind CSS · CSS Modules · Storybook |
+| **03 · State & Data** | Redux Toolkit · TanStack Query · REST · GraphQL |
+| **04 · Testing & Quality** | Playwright · Vitest · Jest · React Testing Library |
+| **05 · Runtime & Delivery** | Node.js · Vite · Webpack · GitHub Actions |
+| **06 · Standards & Performance** | WCAG 2.1 AA · ARIA · Core Web Vitals |
 
 ### 07 · Frontend Engineering Framework
 
-<p align="center"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/07-frontend-engineering-flow.svg" alt="07 Frontend engineering framework" width="100%"/></p>
+| Stage | Focus | Engineering practices |
+|---|---|---|
+| **01 · Understand** | User needs and requirements | Clarify goals, constraints, and acceptance criteria |
+| **02 · Architect** | Application structure | React architecture, TypeScript, reusable components |
+| **03 · Build** | User experience | Responsive UI, design systems, data flows |
+| **04 · Validate** | Product quality | Automated tests, accessibility, performance |
+
+**Engineering outcome:** fast, accessible, reliable, and maintainable web experiences.
 
 ### 08 · End-to-End Delivery Walkthrough
 
-<p align="center"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/08-five-step-delivery-cycle.svg" alt="08 End-to-end delivery walkthrough" width="100%"/></p>
+<details open>
+  <summary><strong>Five steps from discovery to continuous improvement</strong></summary>
 
+  1. **Discover** — Clarify the problem, users, requirements, and success criteria.
+  2. **Plan** — Break the work into components, data flows, and milestones.
+  3. **Build** — Implement responsive, reusable frontend features.
+  4. **Test** — Verify behavior, accessibility, and regressions.
+  5. **Improve** — Review performance, feedback, and maintainability.
+</details>
 
-<sub>Each card is a separate SVG asset, so individual infographic elements can be updated without redesigning the entire graphic.</sub>
 
 ---
 
