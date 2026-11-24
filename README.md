@@ -18,7 +18,38 @@ Senior frontend engineer focused on building fast, accessible, and maintainable 
   <a href="https://your-portfolio.com">Portfolio</a>
 </p>
 
-> **Recruiter quick links:** <a href="#professional-focus">Expertise</a> · <a href="#technical-skills">Skills</a> · <a href="#selected-project-work">Projects</a> · <a href="#education">Education</a> · <a href="#contact">Contact</a>
+## Recruiter Navigation
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="#professional-focus"><strong>🎯 PROFESSIONAL PROFILE</strong></a><br/>
+      <sub>Core strengths, engineering focus, and areas of impact</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#technical-skills"><strong>🧰 TECHNICAL SKILLS</strong></a><br/>
+      <sub>Languages, frameworks, tools, and quality practices</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#selected-project-work"><strong>🚀 PROJECT PORTFOLIO</strong></a><br/>
+      <sub>Project case studies, contributions, and outcomes</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#education"><strong>🎓 EDUCATION</strong></a><br/>
+      <sub>Academic background</sub>
+    </td>
+    <td align="center">
+      <a href="#career-interests"><strong>💼 CAREER INTERESTS</strong></a><br/>
+      <sub>Target roles and work preferences</sub>
+    </td>
+    <td align="center">
+      <a href="#contact"><strong>✉️ CONTACT</strong></a><br/>
+      <sub>Connect with Kelly</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
