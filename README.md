@@ -81,11 +81,13 @@ All eight visuals use one consistent Canva-inspired design system: deep teal hea
 ## At a Glance
 
 <!-- PROFILE_METRICS:START -->
-- Public GitHub metrics will be populated by the scheduled GitHub Actions workflow.
+- **Public repositories:** 1
+- **GitHub stars across listed public repositories:** 0
+- **Followers:** 0
 <!-- PROFILE_METRICS:END -->
 
 <!-- PROFILE_REFRESHED:START -->
-- Metrics refresh automatically every Monday.
+Last refreshed automatically: **2026-11-24 15:55 UTC**
 <!-- PROFILE_REFRESHED:END -->
 
 ## 01 · Technical Cheatsheet — Detailed Reference
