@@ -1,6 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-label="Languages & Web">
-<rect x="5" y="5" width="550" height="210" rx="24" fill="#F1F4F5" stroke="#D7E0E1"/>
-<path d="M29 5h502a24 24 0 0 1 24 24v52H5V29A24 24 0 0 1 29 5" fill="#087F83"/>
-<text x="32" y="34" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#D7FFFF">01 · CHEATSHEET</text>
-<text x="32" y="68" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#FFFFFF">Languages & Web</text>
-<text x="32" y="130" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#344054">TypeScript · JavaScript</text><text x="32" y="162" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#344054">HTML5 · CSS3</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Languages & Web">
+ <defs><style>
+ .bg{fill:#F4F8F8}.card{fill:#FFFFFF;stroke:#D9E7E6;stroke-width:3}.top{fill:#087F83}
+ .eyebrow{font:700 22px Arial,sans-serif;letter-spacing:4px;fill:#C9F4F0}
+ .title{font:700 43px Arial,sans-serif;fill:#FFFFFF}
+ .label{font:700 17px Arial,sans-serif;letter-spacing:2px;fill:#087F83}
+ .value{font:400 25px Arial,sans-serif;fill:#263B40}
+ .foot{font:600 16px Arial,sans-serif;letter-spacing:2px;fill:#688184}
+ </style></defs>
+ <rect class="bg" width="1200" height="300" rx="34"/><rect class="card" x="12" y="12" width="1176" height="276" rx="28"/>
+ <path class="top" d="M40 12h1120a28 28 0 0 1 28 28v86H12V40a28 28 0 0 1 28-28z"/>
+ <text x="54" y="52" class="eyebrow">01  /  CHEATSHEET</text><text x="54" y="104" class="title">Languages & Web</text>
+ <g transform="translate(0 0)"><text x="54" y="142" class="label">CORE SYNTAX</text><text x="54" y="170" class="value">TypeScript  •  JavaScript</text></g><g transform="translate(0 62)"><text x="54" y="204" class="label">STRUCTURE & STYLE</text><text x="54" y="232" class="value">HTML5  •  CSS3</text></g><text x="54" y="272" class="foot">KELLY YORK  •  FRONTEND ENGINEERING</text></svg>
