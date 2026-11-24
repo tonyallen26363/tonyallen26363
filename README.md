@@ -1,56 +1,52 @@
-# Hi, I'm Kelly York 👋
+# Kelly York 👋
 
-**Senior Frontend Developer** | [City / Remote, US] | 10 years of experience
+**Senior Frontend Developer** · New York, NY · Open to Remote (US)
 
-Architects fast, accessible, and scalable web applications with TypeScript, React, and Next.js—focused on design systems, Core Web Vitals performance, and maintainable frontend architecture.
+Senior frontend engineer focused on building fast, accessible, and maintainable web applications with **TypeScript, React, and Next.js**. Experienced in frontend architecture, design systems, web performance, accessibility, and improving engineering quality across teams.
+
+[LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:your.email@domain.com) · [Portfolio](https://your-portfolio.com)
 
 ---
-![Education](https://img.shields.io/badge/B.S._CS-Your_University-90EE90?style=flat-square)
 
-## What I Work On
+## Professional Focus
 
-- Designing scalable UI architectures and shared component libraries with React + TypeScript
+- Frontend architecture and scalable React + TypeScript applications
+- Reusable component libraries, design systems, and Storybook documentation
+- Web performance optimization, including Core Web Vitals, rendering, and bundle size
+- Accessibility practices aligned with WCAG 2.1 AA and semantic HTML/ARIA
+- Frontend migrations, code quality, and cross-team engineering standards
+- Automated testing and reliable delivery workflows
 
-- Optimizing web performance (Core Web Vitals, bundle size, rendering) and WCAG 2.1 AA accessibility
+## Technical Skills
 
-- Leading frontend migrations, automated testing (Playwright/Vitest), and cross-team engineering standards
-
-## Tech Stack
-
-| Category | Technologies |
-
+| Area | Technologies |
 |---|---|
-
 | **Languages** | TypeScript, JavaScript (ES6+), HTML5, CSS3 |
+| **Frameworks & Runtime** | React, Next.js, Node.js |
+| **Styling & UI** | Tailwind CSS, CSS Modules, Storybook, Design Systems |
+| **State & Data** | Redux Toolkit, TanStack Query, REST, GraphQL |
+| **Testing** | Playwright, Vitest, Jest, React Testing Library |
+| **Build & Delivery** | Vite, Webpack, GitHub Actions |
+| **Standards** | WCAG 2.1 AA, ARIA, Core Web Vitals |
 
-| **Frameworks & Libraries** | React, Next.js, Node.js |
+## Selected Project Work
 
-| **Styling & UI** | Tailwind CSS, CSS Modules, Storybook, Design Systems, WCAG/ARIA |
+Project case studies and measurable outcomes can be added here. To keep this profile accurate, no project names, links, adoption figures, or performance improvements are listed until they can be verified.
 
-| **State & Data** | Redux Toolkit, TanStack Query (React Query), REST, GraphQL |
+Suggested case-study topics:
+- **Design system:** component architecture, accessibility, adoption, and developer experience
+- **Frontend migration:** legacy-to-React/Next.js migration, performance, and delivery outcomes
+- **Data-intensive application:** dashboard UX, data fetching, rendering performance, and test coverage
 
-| **Testing & Tooling** | Playwright, Jest, Vitest, React Testing Library, Vite, Webpack, GitHub Actions |
+## Education
 
-## Featured Projects
+**Carnegie Mellon University — School of Computer Science**  
+B.S. in Computer Science · 2012–2016
 
-- **[Project 1 — e.g., Enterprise Design System]** — Accessible React + TypeScript component library with Storybook documentation used across multiple squads to cut UI build time by [X%]. [Link]
+## Career Interests
 
-- **[Project 2 — e.g., High-Traffic Web App Migration]** — Migrated legacy frontend to Next.js and TypeScript, improving LCP by [X%] and boosting conversion by [X%]. [Link]
+Open to **Senior Frontend Engineer, Staff Frontend Engineer, Frontend Architect,** and **Lead Frontend Engineer** opportunities in the US, including remote roles.
 
-- **[Project 3 — e.g., Real-Time Analytics Dashboard]** — Responsive data-heavy SaaS interface using React Query, virtualized tables, and Playwright E2E coverage. [Link]
+---
 
-## Currently
-
-- Building: Scalable React/TypeScript web applications and accessible UI systems
-
-- Learning: AI-assisted frontend workflows, React Server Components, and advanced performance profiling
-
-- Open to: Senior / Staff Frontend Engineer roles (US / Remote)
-
-## Get in Touch
-
-- LinkedIn: [https://linkedin.com/in/your-handle]
-
-- Email: [your.email@domain.com]
-
-- Portfolio: [https://your-portfolio.com]
+*Contact links above are placeholders. Replace them with verified links before using this profile for applications.*
