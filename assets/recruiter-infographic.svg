@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="2050" viewBox="0 0 1400 2050" role="img" aria-labelledby="title desc">
+<title id="title">Kelly York — Frontend Engineering Infographic</title>
+<desc id="desc">A three-part recruiter infographic showing a technical skills cheatsheet, frontend engineering framework, and five-step delivery walkthrough.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7F5FF"/><stop offset="1" stop-color="#EEF7FF"/></linearGradient>
+  <linearGradient id="hero" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#312E81"/><stop offset="1" stop-color="#5B4BCE"/></linearGradient>
+  <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#28305A" flood-opacity=".10"/></filter>
+  <style>
+    .font{font-family:Inter,Arial,Helvetica,sans-serif}.eyebrow{font-size:18px;font-weight:700;letter-spacing:3px}.h1{font-size:58px;font-weight:800}.h2{font-size:34px;font-weight:800}.h3{font-size:23px;font-weight:800}.body{font-size:20px;font-weight:500}.small{font-size:17px;font-weight:500}.muted{fill:#65708A}.ink{fill:#202747}.white{fill:#fff}
+  </style>
+</defs>
+<rect width="1400" height="2050" rx="42" fill="url(#bg)"/>
+<circle cx="1290" cy="90" r="170" fill="#DCD8FF" opacity=".55"/><circle cx="80" cy="430" r="120" fill="#D5F3ED" opacity=".65"/>
+<rect x="70" y="55" width="1260" height="300" rx="34" fill="url(#hero)"/>
+<circle cx="1190" cy="160" r="90" fill="#FFFFFF" opacity=".08"/><circle cx="1255" cy="245" r="44" fill="#F7C66B" opacity=".9"/>
+<text x="125" y="125" class="font eyebrow" fill="#C9C5FF">RECRUITER SNAPSHOT  /  FRONTEND ENGINEERING</text>
+<text x="125" y="210" class="font h1 white">Kelly York</text>
+<text x="128" y="258" class="font body" fill="#E6E4FF">Senior Frontend Developer</text>
+<text x="128" y="305" class="font small" fill="#D8D6F5">TypeScript  •  React  •  Next.js  •  Accessible, maintainable web experiences</text>
+<rect x="70" y="395" width="1260" height="470" rx="30" fill="#FFFFFF" filter="url(#shadow)"/>
+<rect x="70" y="395" width="16" height="470" rx="8" fill="#6C63D9"/>
+<text x="120" y="465" class="font eyebrow" fill="#6C63D9">01  /  CHEATSHEET</text>
+<text x="120" y="515" class="font h2 ink">Technical toolkit</text>
+<text x="120" y="550" class="font small muted">A quick-reference map of core technologies and engineering practices.</text>
+<g class="font">
+  <rect x="120" y="590" width="550" height="105" rx="18" fill="#F0EEFF"/><text x="150" y="630" class="h3" fill="#5147B8">LANGUAGES & WEB</text><text x="150" y="665" class="small ink">TypeScript · JavaScript · HTML5 · CSS3</text>
+  <rect x="700" y="590" width="580" height="105" rx="18" fill="#EAF5FF"/><text x="730" y="630" class="h3" fill="#2767A5">FRONTEND & UI</text><text x="730" y="665" class="small ink">React · Next.js · Tailwind · CSS Modules · Storybook</text>
+  <rect x="120" y="715" width="550" height="105" rx="18" fill="#E8F7F2"/><text x="150" y="755" class="h3" fill="#187B65">STATE & DATA</text><text x="150" y="790" class="small ink">Redux Toolkit · TanStack Query · REST · GraphQL</text>
+  <rect x="700" y="715" width="580" height="105" rx="18" fill="#FFF3E7"/><text x="730" y="755" class="h3" fill="#A75C1C">TESTING & DELIVERY</text><text x="730" y="790" class="small ink">Playwright · Vitest · Jest · Vite · Webpack · GitHub Actions</text>
+</g>
+<rect x="70" y="900" width="1260" height="460" rx="30" fill="#FFFFFF" filter="url(#shadow)"/>
+<rect x="70" y="900" width="16" height="460" rx="8" fill="#19A889"/>
+<text x="120" y="970" class="font eyebrow" fill="#168A70">02  /  FRAMEWORK</text>
+<text x="120" y="1020" class="font h2 ink">Frontend engineering approach</text>
+<text x="120" y="1055" class="font small muted">Connect product intent to implementation and dependable delivery.</text>
+<g class="font">
+  <rect x="120" y="1100" width="255" height="170" rx="20" fill="#E8F7F2"/><circle cx="165" cy="1145" r="22" fill="#19A889"/><text x="158" y="1153" font-size="22" font-weight="800" fill="#fff">1</text><text x="150" y="1200" class="h3 ink">Understand</text><text x="150" y="1235" class="small muted">Users · goals</text><text x="150" y="1260" class="small muted">Requirements · constraints</text>
+  <path d="M385 1185 H420" stroke="#A6AEC2" stroke-width="5" stroke-linecap="round"/><path d="M410 1175 L422 1185 L410 1195" fill="none" stroke="#A6AEC2" stroke-width="5"/>
+  <rect x="435" y="1100" width="255" height="170" rx="20" fill="#EAF2FF"/><circle cx="480" cy="1145" r="22" fill="#477BD1"/><text x="473" y="1153" font-size="22" font-weight="800" fill="#fff">2</text><text x="465" y="1200" class="h3 ink">Architect</text><text x="465" y="1235" class="small muted">Components · data flow</text><text x="465" y="1260" class="small muted">Reusable patterns</text>
+  <path d="M700 1185 H735" stroke="#A6AEC2" stroke-width="5" stroke-linecap="round"/><path d="M725 1175 L737 1185 L725 1195" fill="none" stroke="#A6AEC2" stroke-width="5"/>
+  <rect x="750" y="1100" width="255" height="170" rx="20" fill="#FFF3E7"/><circle cx="795" cy="1145" r="22" fill="#D68A39"/><text x="788" y="1153" font-size="22" font-weight="800" fill="#fff">3</text><text x="780" y="1200" class="h3 ink">Build</text><text x="780" y="1235" class="small muted">Responsive UI</text><text x="780" y="1260" class="small muted">Accessible components</text>
+  <path d="M1015 1185 H1050" stroke="#A6AEC2" stroke-width="5" stroke-linecap="round"/><path d="M1040 1175 L1052 1185 L1040 1195" fill="none" stroke="#A6AEC2" stroke-width="5"/>
+  <rect x="1065" y="1100" width="215" height="170" rx="20" fill="#F0EEFF"/><circle cx="1110" cy="1145" r="22" fill="#6C63D9"/><text x="1103" y="1153" font-size="22" font-weight="800" fill="#fff">4</text><text x="1095" y="1200" class="h3 ink">Validate</text><text x="1095" y="1235" class="small muted">Testing · a11y</text><text x="1095" y="1260" class="small muted">Performance</text>
+</g>
+<text x="120" y="1320" class="font small" fill="#168A70" font-weight="700">GUIDING PRINCIPLES  •  Accessibility  •  Performance  •  Maintainability</text>
+<rect x="70" y="1395" width="1260" height="565" rx="30" fill="#FFFFFF" filter="url(#shadow)"/>
+<rect x="70" y="1395" width="16" height="565" rx="8" fill="#E49A42"/>
+<text x="120" y="1465" class="font eyebrow" fill="#B66A1E">03  /  WALKTHROUGH</text>
+<text x="120" y="1515" class="font h2 ink">From idea to reliable release</text>
+<text x="120" y="1550" class="font small muted">A practical sequence for building and improving frontend experiences.</text>
+<g class="font">
+  <path d="M165 1615 V1870" stroke="#D9DDEC" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="165" cy="1625" r="22" fill="#6C63D9"/><text x="158" y="1633" font-size="20" font-weight="800" fill="#fff">1</text><text x="215" y="1620" class="h3 ink">Discover the problem</text><text x="215" y="1650" class="small muted">Clarify user needs, success criteria, and constraints.</text>
+  <circle cx="165" cy="1690" r="22" fill="#477BD1"/><text x="158" y="1698" font-size="20" font-weight="800" fill="#fff">2</text><text x="215" y="1685" class="h3 ink">Plan the experience</text><text x="215" y="1715" class="small muted">Shape component boundaries, data flow, and UI patterns.</text>
+  <circle cx="165" cy="1755" r="22" fill="#19A889"/><text x="158" y="1763" font-size="20" font-weight="800" fill="#fff">3</text><text x="215" y="1750" class="h3 ink">Build the solution</text><text x="215" y="1780" class="small muted">Implement reusable, responsive interfaces and integrations.</text>
+  <circle cx="165" cy="1820" r="22" fill="#D68A39"/><text x="158" y="1828" font-size="20" font-weight="800" fill="#fff">4</text><text x="215" y="1815" class="h3 ink">Test and verify</text><text x="215" y="1845" class="small muted">Check behavior, accessibility, and regressions with automated tests.</text>
+  <circle cx="165" cy="1885" r="22" fill="#8A70C9"/><text x="158" y="1893" font-size="20" font-weight="800" fill="#fff">5</text><text x="215" y="1880" class="h3 ink">Measure and improve</text><text x="215" y="1910" class="small muted">Review performance signals, refine code, and improve delivery.</text>
+</g>
+<text x="120" y="1985" class="font small muted">Technical profile overview • Tools and practices shown reflect the skills listed in this profile.</text>
+</svg>
