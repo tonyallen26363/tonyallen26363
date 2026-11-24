@@ -46,30 +46,33 @@ Senior frontend engineer focused on building fast, accessible, and maintainable 
 
 ## Visual CV Infographic
 
-<p align="center"><strong>01 · TECHNICAL CHEATSHEET</strong><br/><sub>Quick-reference skill cards — each topic is separated for easy scanning.</sub></p>
+All eight visuals use one consistent Canva-inspired design system: deep teal headers, soft mint accents, white cards, rounded corners, matching typography, and numbered sections. Each visual is also available as an individual SVG.
+
+### 01–06 · Technical Cheatsheet
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/infographic/01-languages-web.svg" alt="Languages and web skills" width="100%"/></td>
-    <td width="50%"><img src="assets/infographic/02-frontend-ui.svg" alt="Frontend frameworks and UI skills" width="100%"/></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/01-languages-web.svg" alt="01 Languages and Web" width="100%"/></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/02-frontend-ui.svg" alt="02 Frontend and UI" width="100%"/></td>
   </tr>
   <tr>
-    <td><img src="assets/infographic/03-state-data.svg" alt="State management and data technologies" width="100%"/></td>
-    <td><img src="assets/infographic/04-testing-quality.svg" alt="Testing and UI quality tools" width="100%"/></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/03-state-data.svg" alt="03 State and Data" width="100%"/></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/04-testing-quality.svg" alt="04 Testing and Quality" width="100%"/></td>
   </tr>
   <tr>
-    <td><img src="assets/infographic/05-runtime-delivery.svg" alt="Runtime and delivery tools" width="100%"/></td>
-    <td><img src="assets/infographic/06-standards-performance.svg" alt="Accessibility and performance standards" width="100%"/></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/05-runtime-delivery.svg" alt="05 Runtime and Delivery" width="100%"/></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/06-standards-performance.svg" alt="06 Standards and Performance" width="100%"/></td>
   </tr>
 </table>
 
-<p align="center"><strong>02 · FRONTEND ENGINEERING FRAMEWORK</strong><br/><sub>A compact visual of how the core stages connect.</sub></p>
+### 07 · Frontend Engineering Framework
 
-<p align="center"><img src="assets/infographic/07-frontend-engineering-flow.svg" alt="Frontend engineering framework from understanding needs through architecture and building to validation" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/07-frontend-engineering-flow.svg" alt="07 Frontend engineering framework" width="100%"/></p>
 
-<p align="center"><strong>03 · DELIVERY WALKTHROUGH</strong><br/><sub>A five-step sequence from discovery to continuous improvement.</sub></p>
+### 08 · End-to-End Delivery Walkthrough
 
-<p align="center"><img src="assets/infographic/08-five-step-delivery-cycle.svg" alt="Five-step frontend delivery walkthrough" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/tonyallen26363/tonyallen26363/main/assets/infographic/08-five-step-delivery-cycle.svg" alt="08 End-to-end delivery walkthrough" width="100%"/></p>
+
 
 <sub>Each card is a separate SVG asset, so individual infographic elements can be updated without redesigning the entire graphic.</sub>
 
