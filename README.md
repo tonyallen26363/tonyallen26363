@@ -18,38 +18,31 @@ Senior frontend engineer focused on building fast, accessible, and maintainable 
   <a href="https://your-portfolio.com">Portfolio</a>
 </p>
 
-## Recruiter Navigation
+## Recruiter Snapshot
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="#professional-focus"><strong>🎯 PROFESSIONAL PROFILE</strong></a><br/>
-      <sub>Core strengths, engineering focus, and areas of impact</sub>
+      <a href="#technical-cheatsheet"><strong>🧰 01 · TECHNICAL CHEATSHEET</strong></a><br/>
+      <sub>Core languages, frameworks, data tools, and quality practices</sub>
     </td>
     <td align="center" width="33%">
-      <a href="#technical-skills"><strong>🧰 TECHNICAL SKILLS</strong></a><br/>
-      <sub>Languages, frameworks, tools, and quality practices</sub>
+      <a href="#frontend-engineering-framework"><strong>🏗️ 02 · ENGINEERING FRAMEWORK</strong></a><br/>
+      <sub>How architecture, experience, quality, and performance fit together</sub>
     </td>
     <td align="center" width="33%">
-      <a href="#selected-project-work"><strong>🚀 PROJECT PORTFOLIO</strong></a><br/>
-      <sub>Project case studies, contributions, and outcomes</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#education"><strong>🎓 EDUCATION</strong></a><br/>
-      <sub>Academic background</sub>
-    </td>
-    <td align="center">
-      <a href="#career-interests"><strong>💼 CAREER INTERESTS</strong></a><br/>
-      <sub>Target roles and work preferences</sub>
-    </td>
-    <td align="center">
-      <a href="#contact"><strong>✉️ CONTACT</strong></a><br/>
-      <sub>Connect with Kelly</sub>
+      <a href="#delivery-walkthrough"><strong>🚀 03 · DELIVERY WALKTHROUGH</strong></a><br/>
+      <sub>A clear view of the end-to-end frontend delivery process</sub>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="#selected-project-work">PROJECTS</a> ·
+  <a href="#education">EDUCATION</a> ·
+  <a href="#career-interests">CAREER INTERESTS</a> ·
+  <a href="#contact">CONTACT</a>
+</p>
 
 ---
 
@@ -62,6 +55,78 @@ Senior frontend engineer focused on building fast, accessible, and maintainable 
 <!-- PROFILE_REFRESHED:START -->
 - Metrics refresh automatically every Monday.
 <!-- PROFILE_REFRESHED:END -->
+
+## 01 · Technical Cheatsheet
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>LANGUAGES</strong><br/>
+      TypeScript · JavaScript · HTML5 · CSS3
+    </td>
+    <td width="50%">
+      <strong>FRONTEND</strong><br/>
+      React · Next.js · Tailwind CSS · CSS Modules
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>STATE & DATA</strong><br/>
+      Redux Toolkit · TanStack Query · REST · GraphQL
+    </td>
+    <td>
+      <strong>TESTING & UI QUALITY</strong><br/>
+      Playwright · Vitest · Jest · Storybook
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>RUNTIME & DELIVERY</strong><br/>
+      Node.js · Vite · Webpack · GitHub Actions
+    </td>
+    <td>
+      <strong>ENGINEERING STANDARDS</strong><br/>
+      WCAG 2.1 AA · ARIA · Core Web Vitals
+    </td>
+  </tr>
+</table>
+
+## 02 · Frontend Engineering Framework
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>🎯 PRODUCT NEED</strong><br/>
+      <sub>User goals · requirements · constraints</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>🏗️ ARCHITECTURE</strong><br/>
+      <sub>React · TypeScript · reusable components</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>✨ EXPERIENCE</strong><br/>
+      <sub>Responsive UI · accessibility · design systems</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>⚡ QUALITY</strong><br/>
+      <sub>Testing · performance · maintainability</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><strong>Outcome:</strong> Fast · Accessible · Reliable · Maintainable web experiences</p>
+
+## 03 · Delivery Walkthrough
+
+| Step | Focus | Practices & tools |
+|---|---|---|
+| **1. Understand** | Clarify users, requirements, and constraints | Product collaboration · problem definition |
+| **2. Design** | Plan components, data flow, and UI patterns | React · TypeScript · design systems |
+| **3. Build** | Implement responsive, reusable experiences | Next.js · Tailwind CSS · TanStack Query |
+| **4. Verify** | Check behavior, accessibility, and regressions | Playwright · Vitest · Jest · WCAG practices |
+| **5. Improve** | Refine performance and delivery quality | Core Web Vitals · code review · CI workflows |
+
+*This is a summary of engineering practices and technical focus, not a claim about a specific employer project or measured result.*
 
 ## Professional Focus
 
