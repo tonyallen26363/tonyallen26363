@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-label="Frontend & UI">
+<rect x="5" y="5" width="550" height="210" rx="24" fill="#F1F4F5" stroke="#D7E0E1"/>
+<path d="M29 5h502a24 24 0 0 1 24 24v52H5V29A24 24 0 0 1 29 5" fill="#16A6A5"/>
+<text x="32" y="34" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#D7FFFF">02 · CHEATSHEET</text>
+<text x="32" y="68" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#FFFFFF">Frontend & UI</text>
+<text x="32" y="130" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#344054">React · Next.js</text><text x="32" y="162" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#344054">Tailwind CSS · CSS Modules · Storybook</text></svg>
