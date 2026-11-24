@@ -46,11 +46,32 @@ Senior frontend engineer focused on building fast, accessible, and maintainable 
 
 ## Visual CV Infographic
 
-<p align="center">
-  <img src="assets/recruiter-infographic.svg" alt="Kelly York frontend engineering infographic: technical toolkit, engineering framework, and delivery walkthrough" width="100%" />
-</p>
+<p align="center"><strong>01 · TECHNICAL CHEATSHEET</strong><br/><sub>Quick-reference skill cards — each topic is separated for easy scanning.</sub></p>
 
-<sub align="center">A visual summary for quick scanning. The sections below provide a text-friendly, more detailed version.</sub>
+<table>
+  <tr>
+    <td width="50%"><img src="assets/infographic/01-languages-web.svg" alt="Languages and web skills" width="100%"/></td>
+    <td width="50%"><img src="assets/infographic/02-frontend-ui.svg" alt="Frontend frameworks and UI skills" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/infographic/03-state-data.svg" alt="State management and data technologies" width="100%"/></td>
+    <td><img src="assets/infographic/04-testing-quality.svg" alt="Testing and UI quality tools" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/infographic/05-runtime-delivery.svg" alt="Runtime and delivery tools" width="100%"/></td>
+    <td><img src="assets/infographic/06-standards-performance.svg" alt="Accessibility and performance standards" width="100%"/></td>
+  </tr>
+</table>
+
+<p align="center"><strong>02 · FRONTEND ENGINEERING FRAMEWORK</strong><br/><sub>A compact visual of how the core stages connect.</sub></p>
+
+<p align="center"><img src="assets/infographic/07-frontend-engineering-flow.svg" alt="Frontend engineering framework from understanding needs through architecture and building to validation" width="100%"/></p>
+
+<p align="center"><strong>03 · DELIVERY WALKTHROUGH</strong><br/><sub>A five-step sequence from discovery to continuous improvement.</sub></p>
+
+<p align="center"><img src="assets/infographic/08-five-step-delivery-cycle.svg" alt="Five-step frontend delivery walkthrough" width="100%"/></p>
+
+<sub>Each card is a separate SVG asset, so individual infographic elements can be updated without redesigning the entire graphic.</sub>
 
 ---
 
