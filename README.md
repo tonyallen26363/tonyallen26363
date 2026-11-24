@@ -13,7 +13,7 @@
 Senior frontend engineer focused on building fast, accessible, and maintainable web applications with **TypeScript, React, and Next.js**. Experienced in frontend architecture, design systems, web performance, accessibility, and improving engineering quality across teams.
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-handle">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/kelly-york-271b72451/">LinkedIn</a> ·
   <a href="mailto:your.email@domain.com">Email</a> ·
   <a href="https://your-portfolio.com">Portfolio</a>
 </p>
@@ -109,7 +109,7 @@ Open to **Senior Frontend Engineer, Staff Frontend Engineer, Frontend Architect,
 
 ## Contact
 
-- LinkedIn: [Add verified profile URL](https://linkedin.com/in/your-handle)
+- LinkedIn: [Kelly York](https://www.linkedin.com/in/kelly-york-271b72451/)
 - Email: [Add professional email](mailto:your.email@domain.com)
 - Portfolio: [Add portfolio URL](https://your-portfolio.com)
 
