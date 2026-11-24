@@ -5,6 +5,7 @@
 Architects fast, accessible, and scalable web applications with TypeScript, React, and Next.js—focused on design systems, Core Web Vitals performance, and maintainable frontend architecture.
 
 ---
+![Education](https://img.shields.io/badge/B.S._CS-Your_University-90EE90?style=flat-square)
 
 ## What I Work On
 
