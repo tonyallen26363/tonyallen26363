@@ -44,6 +44,14 @@ Senior frontend engineer focused on building fast, accessible, and maintainable 
   <a href="#contact">CONTACT</a>
 </p>
 
+## Visual CV Infographic
+
+<p align="center">
+  <img src="assets/recruiter-infographic.svg" alt="Kelly York frontend engineering infographic: technical toolkit, engineering framework, and delivery walkthrough" width="100%" />
+</p>
+
+<sub align="center">A visual summary for quick scanning. The sections below provide a text-friendly, more detailed version.</sub>
+
 ---
 
 ## At a Glance
@@ -56,7 +64,7 @@ Senior frontend engineer focused on building fast, accessible, and maintainable 
 - Metrics refresh automatically every Monday.
 <!-- PROFILE_REFRESHED:END -->
 
-## 01 · Technical Cheatsheet
+## 01 · Technical Cheatsheet — Detailed Reference
 
 <table>
   <tr>
@@ -91,7 +99,7 @@ Senior frontend engineer focused on building fast, accessible, and maintainable 
   </tr>
 </table>
 
-## 02 · Frontend Engineering Framework
+## 02 · Frontend Engineering Framework — How the Work Connects
 
 <table>
   <tr>
@@ -116,7 +124,7 @@ Senior frontend engineer focused on building fast, accessible, and maintainable 
 
 <p align="center"><strong>Outcome:</strong> Fast · Accessible · Reliable · Maintainable web experiences</p>
 
-## 03 · Delivery Walkthrough
+## 03 · Delivery Walkthrough — From Discovery to Improvement
 
 | Step | Focus | Practices & tools |
 |---|---|---|
